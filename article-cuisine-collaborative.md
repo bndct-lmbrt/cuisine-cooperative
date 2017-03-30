@@ -16,6 +16,9 @@ J'invite à créer ensemble quelque chose qui sera comestible.
 Habituellement en cuisine, il y a un leader qui donne une idée de recette et les petites mains coupent, épluchent et servent l'idée du plat.  
 Ici on co-construit le plat en échangeant ou en fabriquant concrètement à plusieurs mains.
 
+
+[Ingrédients à disposition]()
+
 ## La mise en place de l'atelier
 
 Les participants au début restent dubitatifs et ne savent pas quoi faire.  
@@ -24,10 +27,16 @@ J'attends des propositions ou des idées pour laisser le champs libre à la cré
 Comme l'énergie reste hésitante, une idée est soumise, celle de créer une tartine sucréee et une salée pour se donner un objectif.  
 Mais les participants ne savant pas quoi faire, par quel bout le prendre et comment le faire ensemble.  
 Anne-Sophie commence à couper et se lance dans l'action, ce qui entraîne les autres.  
+
+
+[Préparation]()
+
 Les aliments sont petit à petit découpés, râpés, hachés, émiettés.  
 Je donne l'idée, l'icebreaker qui rompt la procrastination momentanée : faisons un cadavre exquis.  
 
 ## Le cadavre exquis  
+
+[Les éléments de création]()
 
 Chacun pense à un aliment et va venir le déposer sur la tartine, sans se laisser influencer par le choix des autres.
 On met, quoi qu'il arrive, ce qu'on a choisi et tant pis si c'est bizarre.  
@@ -44,6 +53,10 @@ Tout le monde part sur l'idée des tartines de sarrasin.
 Pendant l'atelier, on échange autour des aliments qu'on ne connait pas, sur nos pratiques alimentaires, sur nos sensations gustatives.  
 
 ## La dégustation
+
+[Tartine aux épices](https://github.com/bndct-lmbrt/cuisine-collaborative/blob/master/m%C3%A9dias/cuisine-collaborative2.jpg)
+
+[Toutes les tartines](https://github.com/bndct-lmbrt/cuisine-collaborative/blob/master/m%C3%A9dias/cuisine-collaborative3.jpg)
 
 On croque chacun dans les tartines qui se passent de main en main.
 On échange sur nos émotions, nos plaisirs ou découvertes.
