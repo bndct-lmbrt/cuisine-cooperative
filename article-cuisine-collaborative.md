@@ -45,6 +45,10 @@ Pendant l'atelier, on échange autour des aliments qu'on ne connait pas, sur nos
 
 ## La dégustation
 
+[Tartine](https://github.com/bndct-lmbrt/cuisine-collaborative/blob/master/m%C3%A9dias/cuisine-collaborative2.jpg)
+
+[Tartine](https://github.com/bndct-lmbrt/cuisine-collaborative/blob/master/m%C3%A9dias/cuisine-collaborative3.jpg)
+
 On croque chacun dans les tartines qui se passent de main en main.
 On échange sur nos émotions, nos plaisirs ou découvertes.
 L'aspect esthétique est réussi et met en appétit.
