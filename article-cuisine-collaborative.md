@@ -17,7 +17,7 @@ Habituellement en cuisine, il y a un leader qui donne une idée de recette et le
 Ici on co-construit le plat en échangeant ou en fabriquant concrètement à plusieurs mains.
 
 
-[Ingrédients à disposition]()
+[Ingrédients à disposition](https://github.com/bndct-lmbrt/cuisine-collaborative/blob/master/m%C3%A9dias/ingr%C3%A9dients.jpg)
 
 ## La mise en place de l'atelier
 
@@ -29,7 +29,7 @@ Mais les participants ne savant pas quoi faire, par quel bout le prendre et comm
 Anne-Sophie commence à couper et se lance dans l'action, ce qui entraîne les autres.  
 
 
-[Préparation]()
+[Préparation](https://github.com/bndct-lmbrt/cuisine-collaborative/blob/master/m%C3%A9dias/preparation.jpg)
 
 Les aliments sont petit à petit découpés, râpés, hachés, émiettés.  
 Je donne l'idée, l'icebreaker qui rompt la procrastination momentanée : faisons un cadavre exquis.  
@@ -48,6 +48,11 @@ On teste, on élabore des associations de saveurs, on s'amuse, on lache.
 
 Le mouvement est lancé, les envies apparaissent.  
 Des tartines en mono-chrome vert ou orange se montent, des thèmes fruitiers ou comment mettre en valeur les épices.  
+
+[Tartine orange](https://github.com/bndct-lmbrt/cuisine-collaborative/blob/master/m%C3%A9dias/tartine-orange.jpg)
+
+[Tartine verte](https://github.com/bndct-lmbrt/cuisine-collaborative/blob/master/m%C3%A9dias/tartine%20verte.jpg)
+
 Certains créent seuls, d'autrent vont apporter des touches un peu partout. 
 Tout le monde part sur l'idée des tartines de sarrasin.
 Pendant l'atelier, on échange autour des aliments qu'on ne connait pas, sur nos pratiques alimentaires, sur nos sensations gustatives.  
