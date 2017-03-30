@@ -74,6 +74,6 @@ La dernière tartine d'épices et de poivres dépote.
 
 ## Pour prolonger l'expérience
 
-Avec Érik qui participait à l'atelier nous décidons de faire un walkingdev d'une journée sur la cuisine collaborative.  
+Avec Érick qui participait à l'atelier nous décidons de faire un walkingdev d'une journée sur la cuisine collaborative.  
 Nous partirons en itinérance à Montpellier le 25 Avril de lieu en lieu pour inventer ensemble. 
 Inscription sur www.walkingdev.fr 
